@@ -1,3 +1,6 @@
+account: coderwhy
+password: 123456
+
 # 01-vue3-ts-cms
 
 ## Project setup
